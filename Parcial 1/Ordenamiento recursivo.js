@@ -11,6 +11,7 @@ function bubbleSort(items) {
     }
 }
 
+
 var arr = [17, 10, 12, 7, 11]; 
 bubbleSort(arr);
 
