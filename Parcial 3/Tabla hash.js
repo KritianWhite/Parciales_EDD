@@ -144,7 +144,7 @@ class HashElement {
     }
 }
 
-let HT = new HashTable(13, 2)
+let HT = new HashTable(10, 5)
 HT.insert(5)
 HT.insert(10)
 HT.insert(15)
